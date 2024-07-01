@@ -1,0 +1,5 @@
+{
+    "name": "Jekyll Site",
+    "forwardPorts": [4000],
+    "image": "mcr.microsoft.com/devcontainers/jekyll"
+  }
