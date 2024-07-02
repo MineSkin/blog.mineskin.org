@@ -2,7 +2,6 @@
 layout: post
 title:  "MineSkin.org | Custom Skin/Skull Generator"
 date:   2016-07-14
-categories: mineskin
 ---
 
 _Orignally posted on [spigotmc.org](https://www.spigotmc.org/threads/tool-api-mineskin-org-custom-skin-skull-generator.164209/)_
